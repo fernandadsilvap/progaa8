@@ -1,1 +1,1 @@
-Quando achamos a matemática e a física teórica muito difíceis, voltamo-nos para o misticismo.
+Arquivo de texto: é caracterizado por toda informação do arquivo que se encontra codificada em caracteres (letras e números), mas diferente do arquivo binário é possível visualizar seu conteúdo em qualquer tipo de editor de texto.
